@@ -11,17 +11,17 @@
 
 ## Atividades Implementadas:
 #### Cliente:
-- [] Criar Estrutura Cliente NodeJs + Telegraf
-- [] Receber Código dos correios do usuário;
-- [] Tratar Código Recebido;
-- [] Enviar código para a WebApi;
-- [] Receber Resposta da WebApi;
-- [] Tratar Código Recebido da WebApi;
-- [] Retornar Informação para usúario;
-- [] Criar estrutura MongoDB;
-- [] Armazenar código de um usuário;
-- [] Rotina para Verificar Mudança de Status de um item;
-- [] Informar Usuário automaticamente quando mudar status;
+- [ ] Criar Estrutura Cliente NodeJs + Telegraf
+- [ ] Receber Código dos correios do usuário;
+- [ ] Tratar Código Recebido;
+- [ ] Enviar código para a WebApi;
+- [ ] Receber Resposta da WebApi;
+- [ ] Tratar Código Recebido da WebApi;
+- [ ] Retornar Informação para usúario;
+- [ ] Criar estrutura MongoDB;
+- [ ] Armazenar código de um usuário;
+- [ ] Rotina para Verificar Mudança de Status de um item;
+- [ ] Informar Usuário automaticamente quando mudar status;
 
 #### API:
 *Arquitetando Solução*
